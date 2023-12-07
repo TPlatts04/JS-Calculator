@@ -1,7 +1,7 @@
 // 1. Take user input -- COMPLETE
 // 2. Cycle through operation choices and let user select -- COMPLETE
-// 3. Keep asking user until they want operation to be completed
-// 4. Calculate and output
+// 3. Keep asking user until they want operation to be completed -- COMPLETE
+// 4. Calculate and output -- COMPLETE
 
 const prompt = require("prompt-sync")();
 
